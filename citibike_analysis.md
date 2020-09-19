@@ -45,6 +45,8 @@ In conclusion, the data provided for the New York Citi Bike-Share program shows 
 [Population Impact on Bike-Share Programs in New York and Des Moines](https://public.tableau.com/profile/markeia.brox.chester#!/vizhome/Module14Challenge_16004806337110/PopulationImpactonBike-ShareProgramsinNewYorkandDesMoines?publish=yes)
 
 #### References
+[Citi Bike Data](https://www.citibikenyc.com/system-data)
+
 [U.S. Census](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219)
 
 [Des Moines Tourism Article](https://www.desmoinesregister.com/story/money/business/2017/12/13/think-no-one-vacations-des-moines-think-again/941870001/)
